@@ -28,9 +28,9 @@ padding-left: 11em;
         ul.navbar a {
           text-decoration: none }
         a:link {
-          color: whitesmoke }
+          color: rgb(0, 0, 0) }
         a:visited {
-          color: rgb(7, 0, 55) }
+          color: rgb(13, 0, 98) }
 address {
   margin-top: 1em;
   padding-top: 1em;
